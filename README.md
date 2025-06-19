@@ -1,4 +1,5 @@
 #DEFORESTATION-ISSUE-ANALYSIS-USING-SUPPORT-VECTOR-MACHINES
+
 **Deforestation Issue Analysis Using Support Vector Machines(SVM)**
 
 This model was built on Kaggle Notebook since the code might not work on Jupyter Notebook due to version diferences or the use of Jupyter Web (which isnt the problem with Kaggle Notebook). The main source code utilises Machine Learning Algorithms specified to give the required output (included with the code itself).
